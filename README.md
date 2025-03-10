@@ -1,1 +1,1 @@
-# ejercicio-git-github
+# Este es un ejercicio de Git y Github
